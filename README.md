@@ -1,5 +1,5 @@
 Hello, world!
-
+Currently working in adapting an open source CNN model for forensic uses. :) 
 
 <!---
 M-FLucas/M-FLucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
